@@ -3,7 +3,7 @@
 
 # 然后包含你需要的文件和目录
 !.bashrc
-!.config/hypr/**
+!.config/hypr/hyprland.conf
 !.config/dwm/**
 !.config/fcitx5/**
 !.config/st/**
