@@ -1,0 +1,12 @@
+# 首先忽略所有文件
+*
+
+# 然后包含你需要的文件和目录
+!.bashrc
+!./.config/hypr/
+!./.config/dwm/
+!./.config/fcitx5/
+!./.config/st/
+!./.config/kitty/
+
+!.gitignore
